@@ -56,10 +56,8 @@ The confusion matrix provides insights into how many images were correctly class
 
 ### **3. Classification Report**
 This table details precision, recall, f1-score, and support for each class (Cat, Dog).
-
 ![Classification Report](<حط لينك صورة الـ Classification Report هنا>)
 
 ### **4. Grad-CAM Visualization**
 Grad-CAM (Gradient-weighted Class Activation Mapping) highlights the regions of the image that the model focused on to make its prediction.
-
 ![Grad-CAM Visualization](<حط لينك صورة الـ Grad-CAM هنا>)
