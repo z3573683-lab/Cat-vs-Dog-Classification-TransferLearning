@@ -47,17 +47,17 @@ The model was compiled using the Adam optimizer and Binary Crossentropy loss fun
 ### **1. Accuracy & Loss Curves (Training vs Validation)**
 These plots show how the model learned over epochs.
 
-![Accuracy and Loss Curves](<حط لينك صورة الـ Accuracy/Loss هنا>)
+![Accuracy and Loss Curves](<img width="1341" height="512" alt="Loss_Accuracy" src="https://github.com/user-attachments/assets/e35c9f60-70b6-48f1-9e09-7c41434d5100" />)
 
 ### **2. Confusion Matrix**
 The confusion matrix provides insights into how many images were correctly classified versus those that were misclassified.
 
-![Confusion Matrix](<حط لينك صورة الـ Confusion Matrix هنا>)
+![Confusion Matrix](<img width="664" height="622" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/5b33792d-9eea-4f3c-a9bd-552fda5de2dc" />)
 
 ### **3. Classification Report**
 This table details precision, recall, f1-score, and support for each class (Cat, Dog).
-![Classification Report](<حط لينك صورة الـ Classification Report هنا>)
+![Classification Report](<img width="510" height="228" alt="Classification_Report" src="https://github.com/user-attachments/assets/ab5102cf-4203-48ac-88a7-c62176498385" />)
 
 ### **4. Grad-CAM Visualization**
 Grad-CAM (Gradient-weighted Class Activation Mapping) highlights the regions of the image that the model focused on to make its prediction.
-![Grad-CAM Visualization](<حط لينك صورة الـ Grad-CAM هنا>)
+![Grad-CAM Visualization](<img width="936" height="477" alt="Grad_CAM" src="https://github.com/user-attachments/assets/ac179027-1048-4df1-be93-3a432d0b14bd" />)
